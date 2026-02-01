@@ -1,0 +1,17 @@
+bin,total_count,n_metals,n_scaffolds,n_sbus,avg_linker_diversity
+bandgap_0_to_0.5eV,41,15,25,26,0.888
+bandgap_0.5_to_1.0eV,33,9,22,20,0.895
+bandgap_1.0_to_1.5eV,64,11,29,24,0.895
+bandgap_1.5_to_2.0eV,243,27,86,84,0.876
+bandgap_2.0_to_2.5eV,480,36,150,143,0.865
+bandgap_2.5_to_3.0eV,1194,41,357,259,0.875
+bandgap_3.0_to_3.5eV,1785,49,491,361,0.848
+bandgap_3.5_to_4.0eV,2466,50,597,455,0.825
+bandgap_4.0_to_4.5eV,2029,47,477,402,0.841
+bandgap_4.5_to_5.0eV,1199,45,223,298,0.849
+bandgap_5.0_to_5.5eV,524,40,96,166,0.879
+bandgap_5.5_to_6.0eV,275,35,60,104,0.878
+bandgap_6.0_to_6.5eV,284,32,29,100,0.815
+bandgap_6.5_to_7.0eV,158,27,12,70,0.796
+bandgap_7.0_to_7.5eV,33,11,7,17,0.878
+bandgap_8.0_to_8.5eV,2,2,1,2,0.0

@@ -1,0 +1,17 @@
+bin,range_eV,total,mode,train,val,test
+bandgap_0_to_0.5eV,0.0-0.5,41,sparse,32,4,5
+bandgap_0.5_to_1.0eV,0.5-1.0,33,sparse,26,3,4
+bandgap_1.0_to_1.5eV,1.0-1.5,64,rich,50,14,0
+bandgap_1.5_to_2.0eV,1.5-2.0,243,rich,50,50,143
+bandgap_2.0_to_2.5eV,2.0-2.5,480,rich,50,50,380
+bandgap_2.5_to_3.0eV,2.5-3.0,1194,rich,50,50,1094
+bandgap_3.0_to_3.5eV,3.0-3.5,1785,rich,50,50,1685
+bandgap_3.5_to_4.0eV,3.5-4.0,2466,rich,50,50,2366
+bandgap_4.0_to_4.5eV,4.0-4.5,2029,rich,50,50,1929
+bandgap_4.5_to_5.0eV,4.5-5.0,1199,rich,50,50,1099
+bandgap_5.0_to_5.5eV,5.0-5.5,524,rich,50,50,424
+bandgap_5.5_to_6.0eV,5.5-6.0,275,rich,50,50,175
+bandgap_6.0_to_6.5eV,6.0-6.5,284,rich,50,50,184
+bandgap_6.5_to_7.0eV,6.5-7.0,158,rich,50,50,58
+bandgap_7.0_to_7.5eV,7.0-7.5,33,sparse,26,3,4
+bandgap_8.0_to_8.5eV,8.0-8.5,2,sparse,1,1,0
